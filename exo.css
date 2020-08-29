@@ -1,0 +1,16 @@
+.image{
+    width: 20 px;
+    heigh: 200px;
+    border-radius;
+
+}
+
+.nom{
+    text-align: center;
+
+}
+
+.descrip{
+    text-align: center;
+    width: 180px
+}
